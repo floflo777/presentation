@@ -1,8 +1,10 @@
 Flask==3.0.0
 Flask-SocketIO==5.5.1
-eventlet==0.39.0
 python-socketio==5.12.1
+python-engineio==4.9.0
+eventlet==0.39.0
 bleak==0.22.3
 pycycling==0.4.1
 azure-cosmos==4.2.0
+websocket-client==1.7.0
 
